@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>resume</title>
+</head>
+<body>
+<font size=12 font-family="times new roman">
+<title>Objective</tile>
+<p>I am strive trying for work hard</p>
+<div>Education Qualification</div>
+    <table rowspan="3" colspan="3">
+        <tr rowspan="3">
+        <td>SNO</td>
+        <td>Qualification</td>
+        <td>Year of Passing</td>
